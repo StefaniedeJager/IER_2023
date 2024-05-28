@@ -15,33 +15,33 @@ Data files also contain (From K.L. Poggensee and S.H. Collins):
 - Metabolics measurements: vo2, vco2 (mL/min)
 
 **Data from the first training day**
-Day2QS.mat = contains the data of the quiet standing trial
-Walking trials:
-Day2NW2.mat = contains the data of the walking trials with normal shoes
-Day2ZT2.mat = contains the data of the walking trials with the exoskeleton on zero torque
-Day2GA2.mat = contains the data of the walking trials with the exoskeleton subjected to the general assistance pattern
+- Day2QS.mat = contains the data of the quiet standing trial
+- Walking trials:
+- Day2NW2.mat = contains the data of the walking trials with normal shoes
+- Day2ZT2.mat = contains the data of the walking trials with the exoskeleton on zero torque
+- Day2GA2.mat = contains the data of the walking trials with the exoskeleton subjected to the general assistance pattern
 
 **Data from the last training day**
-Day6QS.mat = contains the data of the quiet standing trial
-Walking trials:
-Day6NW2.mat = contains the data of the walking trials with normal shoes
-Day6ZT2.mat = contains the data of the walking trials with the exoskeleton on zero torque
-Day6GA2.mat = contains the data of the walking trials with the exoskeleton subjected to the general assistance pattern
+- Day6QS.mat = contains the data of the quiet standing trial
+- Walking trials:
+- Day6NW2.mat = contains the data of the walking trials with normal shoes
+- Day6ZT2.mat = contains the data of the walking trials with the exoskeleton on zero torque
+- Day6GA2.mat = contains the data of the walking trials with the exoskeleton subjected to the general assistance pattern
 
 Next to that, this repository contains some .xlsx excelfiles which contains all of the data that is collected by running the Matlab scripts.
 
 **Used for R statistical analyses**
-R_SWDay2.xlsx = Containing step width data of the first training day
-R_SWDay6.xlsx = Containing step width data of the last training day
-R_SLDay2.xlsx = Containing step length data of the first training day
-R_SLDay6.xlsx = Containing step length data of the last training day
-R_SWDay2vsDay6.xlsx = Containing step width data of both training days
-R_SLDay2vsDay6.xlsx = Containing step length data of both training days
+- R_SWDay2.xlsx = Containing step width data of the first training day
+- R_SWDay6.xlsx = Containing step width data of the last training day
+- R_SLDay2.xlsx = Containing step length data of the first training day
+- R_SLDay6.xlsx = Containing step length data of the last training day
+- R_SWDay2vsDay6.xlsx = Containing step width data of both training days
+- R_SLDay2vsDay6.xlsx = Containing step length data of both training days
 **Used for Matlab Boxplot**
-SWDay2.xlsx = Containing step width data of the first training day
-SWDay6.xlsx = Containing step width data of the last training day
-SLDay2.xlsx = Containing step length data of the first training day
-SLDay6.xlsx = Containing step length data of the last training day
+- SWDay2.xlsx = Containing step width data of the first training day
+- SWDay6.xlsx = Containing step width data of the last training day
+- SLDay2.xlsx = Containing step length data of the first training day
+- SLDay6.xlsx = Containing step length data of the last training day
 
 These data files are used in the Boxplot.MATLAB script to obtain boxplots of the data, used for visualization of the data and in R for statistical analyses.
 
