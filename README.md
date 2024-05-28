@@ -1,3 +1,4 @@
+
 # Determening step width and step length from ground reaction force data of different walking trials 
 This repository contains the data set
 This analyses is an extension on that of K.L. Poggensee and S.H. Collins from their article: "How adaptation, training, and customization contributeto benefits from exoskeleton assistance", the data used here was collected during their research. 
